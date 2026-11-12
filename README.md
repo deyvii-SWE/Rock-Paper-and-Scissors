@@ -1,4 +1,4 @@
-# Rock, Paper and Scizor
+# Rock, Paper and Scissors
 
 ## How the Game Works
 
